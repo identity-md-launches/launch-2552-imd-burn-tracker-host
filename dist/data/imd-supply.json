@@ -1,15 +1,15 @@
 [
  {
   "starting_supply": 10000000,
-  "supply_now": 7091924.953234,
-  "in_burn_wallets": 953.115564,
-  "circulating_now": 7090971.83767,
-  "on_base": 2861893.526461,
-  "locked_for_bridges": 4230031.426773,
-  "on_ethereum": 4165992.348401,
-  "on_robinhood": 63915.115302,
-  "awaiting_executor": 151.246055,
+  "supply_now": 7091672.937614,
+  "in_burn_wallets": 955.453373,
+  "circulating_now": 7090717.484241,
+  "on_base": 2859602.381567,
+  "locked_for_bridges": 4232070.556047,
+  "on_ethereum": 4165164.117351,
+  "on_robinhood": 66782.475626,
+  "awaiting_executor": 29.051037,
   "stuck_old_receiver": 1.0,
-  "as_of": "2026-10-22T18:01:45Z"
+  "as_of": "2026-10-24T18:07:17Z"
  }
 ]
