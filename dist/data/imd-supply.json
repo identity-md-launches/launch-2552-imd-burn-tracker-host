@@ -4,12 +4,12 @@
   "supply_now": 7091594.72915,
   "in_burn_wallets": 955.650383,
   "circulating_now": 7090639.078767,
-  "on_base": 2794976.712431,
-  "locked_for_bridges": 4296618.016719,
-  "on_ethereum": 4233012.163982,
-  "on_robinhood": 63481.889667,
+  "on_base": 2794964.893649,
+  "locked_for_bridges": 4296629.835501,
+  "on_ethereum": 4233125.845059,
+  "on_robinhood": 63380.027372,
   "awaiting_executor": 0.664042,
   "stuck_old_receiver": 1.0,
-  "as_of": "2026-10-25T20:23:47Z"
+  "as_of": "2026-10-25T20:48:31Z"
  }
 ]

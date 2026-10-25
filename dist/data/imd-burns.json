@@ -8,10 +8,10 @@
   "total_burned": 2908450.648213,
   "current_supply": 7091594.72915,
   "initial_supply": 10000000,
-  "block": 53085240,
-  "as_of": "2026-10-25T20:23:47Z",
-  "circulating_on_chain": 2794976.712431,
-  "locked_in_bridge": 4296618.016719
+  "block": 53085982,
+  "as_of": "2026-10-25T20:48:31Z",
+  "circulating_on_chain": 2794964.893649,
+  "locked_in_bridge": 4296629.835501
  },
  {
   "chain": "Ethereum",
@@ -20,11 +20,11 @@
   "supply_destroyed": 0.0,
   "burn_wallets": 875.333082,
   "total_burned": 875.333082,
-  "current_supply": 4233012.163982,
+  "current_supply": 4233125.845059,
   "initial_supply": null,
-  "block": 26272059,
-  "as_of": "2026-10-25T20:23:47Z",
-  "circulating_on_chain": 4233012.163982,
+  "block": 26272182,
+  "as_of": "2026-10-25T20:48:23Z",
+  "circulating_on_chain": 4233125.845059,
   "locked_in_bridge": 0.0
  },
  {
@@ -34,11 +34,11 @@
   "supply_destroyed": 0.0,
   "burn_wallets": 34.939937,
   "total_burned": 34.939937,
-  "current_supply": 63481.889667,
+  "current_supply": 63380.027372,
   "initial_supply": null,
-  "block": 97860889,
-  "as_of": "2026-10-25T20:23:48Z",
-  "circulating_on_chain": 63481.889667,
+  "block": 97875058,
+  "as_of": "2026-10-25T20:48:32Z",
+  "circulating_on_chain": 63380.027372,
   "locked_in_bridge": 0.0
  }
 ]
