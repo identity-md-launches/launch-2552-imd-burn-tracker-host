@@ -3,15 +3,15 @@
   "chain": "Base",
   "contract": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105",
   "token": "Fren Pet (original IMD)",
-  "supply_destroyed": 2908334.584855,
+  "supply_destroyed": 2908347.943888,
   "burn_wallets": 45.377364,
-  "total_burned": 2908379.962219,
-  "current_supply": 7091665.415145,
+  "total_burned": 2908393.321252,
+  "current_supply": 7091652.056112,
   "initial_supply": 10000000,
-  "block": 53043382,
-  "as_of": "2026-10-24T21:08:31Z",
-  "circulating_on_chain": 2859594.859098,
-  "locked_in_bridge": 4232070.556047
+  "block": 53056211,
+  "as_of": "2026-10-25T04:16:09Z",
+  "circulating_on_chain": 2859611.517458,
+  "locked_in_bridge": 4232040.538654
  },
  {
   "chain": "Ethereum",
@@ -20,11 +20,11 @@
   "supply_destroyed": 0.0,
   "burn_wallets": 875.333082,
   "total_burned": 875.333082,
-  "current_supply": 4165545.39657,
+  "current_supply": 4165834.928593,
   "initial_supply": null,
-  "block": 26265102,
-  "as_of": "2026-10-24T21:08:23Z",
-  "circulating_on_chain": 4165545.39657,
+  "block": 26267235,
+  "as_of": "2026-10-25T04:15:59Z",
+  "circulating_on_chain": 4165834.928593,
   "locked_in_bridge": 0.0
  },
  {
@@ -34,11 +34,11 @@
   "supply_destroyed": 0.0,
   "burn_wallets": 34.742927,
   "total_burned": 34.742927,
-  "current_supply": 66401.196407,
+  "current_supply": 66081.646991,
   "initial_supply": null,
-  "block": 97062397,
-  "as_of": "2026-10-24T21:08:31Z",
-  "circulating_on_chain": 66401.196407,
+  "block": 97307694,
+  "as_of": "2026-10-25T04:16:11Z",
+  "circulating_on_chain": 66081.646991,
   "locked_in_bridge": 0.0
  }
 ]

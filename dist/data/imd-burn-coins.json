@@ -684,6 +684,18 @@
   "rank": 57
  },
  {
+  "address": "0xf564dd76bd081554170c5e0b78144abfb39f7061",
+  "name": "Sworn #2404",
+  "symbol": "SWORN",
+  "type": "Swarm launch #2404",
+  "burn_feature": "Sends IMD to the BurnExecutor",
+  "imd_to_burn": 1.1,
+  "trades": null,
+  "volume_eth": null,
+  "launched": "2026-10-21",
+  "rank": 58
+ },
+ {
   "address": "0x98431515ccf8ba06704739bec386cb9507bb0cde",
   "name": "surf",
   "symbol": "surf",
@@ -693,18 +705,6 @@
   "trades": 6,
   "volume_eth": 0.167417,
   "launched": "2026-08-19",
-  "rank": 58
- },
- {
-  "address": "0xf564dd76bd081554170c5e0b78144abfb39f7061",
-  "name": "Sworn #2404",
-  "symbol": "SWORN",
-  "type": "Swarm launch #2404",
-  "burn_feature": "Sends IMD to the BurnExecutor",
-  "imd_to_burn": 1.0,
-  "trades": null,
-  "volume_eth": null,
-  "launched": "2026-10-21",
   "rank": 59
  },
  {

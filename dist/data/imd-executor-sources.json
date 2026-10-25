@@ -12,19 +12,19 @@
   "source": "IMD/ETH pool burn hook & other Uniswap v4 swaps",
   "kind": "pool hook",
   "address": "0xc6c965bd164c483e87d0b550671798e9a3602840",
-  "imd_sent": 35320.062835,
-  "transfers": 338,
+  "imd_sent": 35321.522074,
+  "transfers": 339,
   "first_day": "2026-09-02",
-  "last_day": "2026-10-24"
+  "last_day": "2026-10-25"
  },
  {
   "source": "Community coins (LaunchpadHook)",
   "kind": "community coins",
   "address": "0x51768f5da32ba2008304cc81674da51acb802888",
-  "imd_sent": 3980.635942,
-  "transfers": 111,
+  "imd_sent": 3980.707102,
+  "transfers": 112,
   "first_day": "2026-08-19",
-  "last_day": "2026-10-23"
+  "last_day": "2026-10-25"
  },
  {
   "source": "surfsurf.eth",
@@ -63,6 +63,15 @@
   "last_day": "2026-10-23"
  },
  {
+  "source": "Sworn (SWORN) #2404",
+  "kind": "swarm launch",
+  "address": "0x0da2679000ea5380d1361cc3cca7d4e8c881f766",
+  "imd_sent": 1.1,
+  "transfers": 11,
+  "first_day": "2026-10-21",
+  "last_day": "2026-10-25"
+ },
+ {
   "source": "0x3322\u20264d69",
   "kind": "contract",
   "address": "0x3322e6dd06ade8377f1f1bcb766f6133d7b64d69",
@@ -70,15 +79,6 @@
   "transfers": 1,
   "first_day": "2026-10-22",
   "last_day": "2026-10-22"
- },
- {
-  "source": "Sworn (SWORN) #2404",
-  "kind": "swarm launch",
-  "address": "0x0da2679000ea5380d1361cc3cca7d4e8c881f766",
-  "imd_sent": 1.0,
-  "transfers": 10,
-  "first_day": "2026-10-21",
-  "last_day": "2026-10-23"
  },
  {
   "source": "IMD Names (contract)",
