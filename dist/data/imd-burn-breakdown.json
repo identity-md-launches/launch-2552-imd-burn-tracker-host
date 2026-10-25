@@ -2,9 +2,9 @@
  {
   "route": "Base \u00b7 Fren Pet native",
   "chain": "Base",
-  "burn_function": 2750876.411507,
+  "burn_function": 2750933.738469,
   "burn_wallets": 45.377364,
-  "total_burned": 2750921.788871,
+  "total_burned": 2750979.115832,
   "how": "burn() on the Base token (Fren Pet) by anyone except the BurnExecutor's receiver, plus Base burn wallets"
  },
  {
@@ -27,8 +27,8 @@
   "route": "Robinhood Chain",
   "chain": "Robinhood Chain",
   "burn_function": 0.0,
-  "burn_wallets": 34.742927,
-  "total_burned": 34.742927,
+  "burn_wallets": 34.939937,
+  "total_burned": 34.939937,
   "how": "IMD sent to burn wallets on Robinhood Chain"
  }
 ]
